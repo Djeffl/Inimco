@@ -1,0 +1,17 @@
+<div>
+  <mat-form-field class="account-type" appearance="fill">
+    <mat-label>Type</mat-label>
+    <mat-select>
+      <mat-option
+        *ngFor="let accountType of accountTypes"
+        value="{{ accountType }}"
+      >
+        {{ accountType }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  <mat-form-field appearance="standard">
+    <mat-label>Adress</mat-label>
+    <input matInput />
+  </mat-form-field>
+</div>

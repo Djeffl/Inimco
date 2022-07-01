@@ -1,0 +1,12 @@
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\bin\Debug\net6.0\PersonalUser.Domain.deps.json
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\bin\Debug\net6.0\PersonalUser.Domain.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\bin\Debug\net6.0\ref\PersonalUser.Domain.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\bin\Debug\net6.0\PersonalUser.Domain.pdb
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.csproj.AssemblyReference.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\ref\PersonalUser.Domain.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Domain\obj\Debug\net6.0\PersonalUser.Domain.pdb

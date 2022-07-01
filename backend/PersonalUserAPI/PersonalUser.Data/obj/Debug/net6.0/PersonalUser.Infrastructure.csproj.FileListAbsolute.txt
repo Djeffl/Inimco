@@ -1,0 +1,17 @@
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Infrastructure.deps.json
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Infrastructure.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\ref\PersonalUser.Infrastructure.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Infrastructure.pdb
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Application.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Domain.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Application.pdb
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\bin\Debug\net6.0\PersonalUser.Domain.pdb
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.csproj.CopyComplete
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\ref\PersonalUser.Infrastructure.dll
+C:\Users\Jeff\source\repos\Inimco\backend\PersonalUserAPI\PersonalUser.Data\obj\Debug\net6.0\PersonalUser.Infrastructure.pdb

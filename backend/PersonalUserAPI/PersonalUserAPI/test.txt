@@ -1,0 +1,7 @@
+{"Id":"46e0b887-a052-410a-b970-6a6a94115e68","FirstName":"John","LastName":"Doe","Skills":["Social","Team player"],"Accounts":[]}
+{"Id":"3d5ee053-a1f6-489d-9d97-c8babc3c4e65","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Team player"],"Accounts":[],"FullName":"John Doe"}
+{"Id":"0c30800d-293a-483f-a913-e6e448e6531f","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Team player"],"Accounts":[],"FullName":"John Doe"}
+{"Id":"1825b575-e8e7-417d-8035-bf9b031ebe42","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Team player"],"Accounts":[],"FullName":"John Doe"}
+{"Id":"688824e3-2b54-45b3-aaf4-e68160cefc8f","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Team player","das"],"Accounts":[],"FullName":"John Doe"}
+{"Id":"e4ffd62d-ac5b-4d72-9c85-0853681ec8cf","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Team player"],"Accounts":[{"Type":0,"Address":"google.com"}],"FullName":"John Doe"}
+{"Id":"da2dfe37-9328-45db-a004-ff0fc0a2b81a","FirstName":"John","LastName":"Doe","SocialSkills":["Social","Dancer"],"Accounts":[{"Type":0,"Address":"https://www.facebook.com/jeff.liekens.37"}],"FullName":"John Doe"}
